@@ -1,4 +1,4 @@
-## Скрипты для Tempermonkey.
+## Скрипты для [Tampermonkey](https://www.tampermonkey.net/?ext=dhdg&browser=chrome).
 
 ---
 
